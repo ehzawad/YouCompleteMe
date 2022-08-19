@@ -256,7 +256,7 @@ $ brew install cmake python go nodejs
 - For java support you must install a JDK, one way to do this is with Homebrew:
 
 ```
-$ brew install java
+$ brew install openjdk
 $ sudo ln -sfn $(brew --prefix java)/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
 ```
 
